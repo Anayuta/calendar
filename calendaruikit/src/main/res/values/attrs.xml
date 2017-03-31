@@ -15,5 +15,10 @@
         <attr name="month_view_remark_color" format="color"></attr>
     </declare-styleable>
 
+    <declare-styleable name="CalendarView">
+
+
+    </declare-styleable>
+
 
 </resources>
